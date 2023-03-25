@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1>My Awesome Git Repository</h1>
+<h1>My Git Repository</h1>
 <h2>Introduction</h2>
 <p>This repository contains my project(s).</p>
 <h2>Git Commands</h2>
