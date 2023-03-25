@@ -61,6 +61,6 @@
 	</tr>`
 </table>
 <h2>Conclusion</h2>
-<p>Thank you for checking out my Git repository!<br> Kunal Sinha <br> 22BCB0138</p>
+<p>Thank you for checking out my Git repository!<br></p><em><p font: Times New Roman><B> Kunal Sinha <br> 22BCB0138</B></p></em>
 </body>
 </html>
