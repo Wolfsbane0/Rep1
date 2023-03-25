@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Awesome Git Repository</title>
+	<title>My Git Repository</title>
 </head>
 <body>
 <h1>My Awesome Git Repository</h1>
@@ -61,6 +61,6 @@
 	</tr>`
 </table>
 <h2>Conclusion</h2>
-<p>Thank you for checking out my Git repository! If you have any questions or feedback, please don't hesitate to contact me.</p>
+<p>Thank you for checking out my Git repository!<br> Kunal Sinha <br> 22BCB0138</p>
 </body>
 </html>
